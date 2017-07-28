@@ -3,174 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\emt\.android\build-cache\752b93c3659b629fbad3e1e1b0071315b045e4b8\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\Workspace\TestApiAiAgent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f2e90f25d8b0aa6514f46cfaa5ff8ef42cff10b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\emt\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
-        <dex dex="D:\Workspace\TestApiAiAgent\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.1_1077fedf645c736886ca596422a022be7438cec8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\emt\.android\build-cache\dee0be6f0d4370f8f4827946146de9e8b4f7400b\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="D:\Workspace\TestApiAiAgent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77519f2e4f70249eb45cb368135780384510064f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\emt\.android\build-cache\3b27cae82bc6dd8cb8ecadaa44d293afa3e08532\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="D:\Workspace\TestApiAiAgent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be723ef0cf64453edb41548d4a306e3e4c74c69f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Tool\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="D:\Workspace\TestApiAiAgent\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_db373fc7ed06e83fa55e9c432178f9de716049e6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\emt\.gradle\caches\modules-2\files-2.1\ai.api\libai\1.4.8\1386bf51c371e40bf1dc04920b04bd937c04e8ba\libai-1.4.8.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="1386bf51c371e40bf1dc04920b04bd937c04e8ba">
-        <dex dex="D:\Workspace\TestApiAiAgent\app\build\intermediates\transforms\dex\debug\folders\1000\10\libai-1.4.8_5bde54f7b88ccd2efb0e3f81b4f9dc489609001f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\emt\.android\build-cache\96fcdf1f00c3865b94e415a5754228be2d2b3bcb\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="606ef0d18ef792bcf35cc520fb4a1a25ea24c0e7">
-        <dex dex="D:\Workspace\TestApiAiAgent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_85ced92b29afd1803e1dc0ff854ec5294d55def7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\emt\.android\build-cache\2352ea3a73ebdf59b223ac98efa08d8000a958d3\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="D:\Workspace\TestApiAiAgent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03639bdba17165407b22de8ee7da0804343a4af3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Workspace\TestApiAiAgent\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="2a46265016a1b283188e9f229f5a37a8f0ab420c">
-        <dex dex="D:\Workspace\TestApiAiAgent\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cc629498102bcfee8c066d7e18338ab056c7446f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\emt\.android\build-cache\4c29eeb65e4fb2e4ff47d51631eec31cd0db49e1\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="D:\Workspace\TestApiAiAgent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_95f98b67cdfcc01e0e4ac512c484566d7ed7d020\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
-        <dex dex="D:\Workspace\TestApiAiAgent\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.4_b2955a73e8fdec69863902c786dced8321b28c5c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\emt\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-api\2.2\d7ef6ad7ff0711dd12fe409d62d72d6ed14516e0\log4j-api-2.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="d7ef6ad7ff0711dd12fe409d62d72d6ed14516e0">
-        <dex dex="D:\Workspace\TestApiAiAgent\app\build\intermediates\transforms\dex\debug\folders\1000\10\log4j-api-2.2_3fd10bd768a0ef45a008f8dd850b909c6d52c1bf\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\emt\.android\build-cache\50e6dbb56e366ef1c8d91e4660d3f84c84e486bd\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="D:\Workspace\TestApiAiAgent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7472986db144a63543ab3b0e8f3125069a39a85e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Workspace\TestApiAiAgent\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="D:\GitHub\TestApiAiAgent\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="D:\Workspace\TestApiAiAgent\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4de1fa4af0917439241acf09c908acf0ac68e3ef\classes.dex" />
+        <dex dex="D:\GitHub\TestApiAiAgent\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_70d79e2bc0f311e021a7f790bf94a24c299c528a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\emt\.android\build-cache\dce86ae2baef427e79d5a8cff1f178f1b20558f6\output\jars\classes.jar"
+        jar="D:\GitHub\TestApiAiAgent\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="D:\Workspace\TestApiAiAgent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_384413e850300e1dbd76393155788125c25ab374\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Tool\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="D:\Workspace\TestApiAiAgent\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_b9d66d2dedd7a1dbd3f2202899cdab7e4ce291f6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\emt\.android\build-cache\97baa294b6080faf8003edbed51352688c953c5b\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="D:\Workspace\TestApiAiAgent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2520aa0d81535002eb155c8b9f8c0906e443e5a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\emt\.android\build-cache\1ce652ec0b55ff863195fa85969dea51c1bb6d9b\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="D:\Workspace\TestApiAiAgent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c15d8c54161407cda46d3ec4167584eca5c21776\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\emt\.android\build-cache\db00bfad6bddcc03836fca651f07d2cd6bbeb72c\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="D:\Workspace\TestApiAiAgent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c59066eeaea0eef426623f020f34df2a196efc1d\classes.dex" />
+        sha1="1f91f3526aecedd1f566ceeff3cdc47a13077002">
+        <dex dex="D:\GitHub\TestApiAiAgent\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fc7b428ecf4ad0b5dc0e5ca0bb8ec7aefb958d65\classes.dex" />
     </item>
 
 </items>
