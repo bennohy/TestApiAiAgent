@@ -30,7 +30,8 @@ public class MainActivity extends AppCompatActivity implements AIListener {
 
     private AIService aiService;
 
-    private static String CLIENT_ACCESS_TOKEN = "999aefc262ba490caaf833c66c98bc0d";
+//    private static String CLIENT_ACCESS_TOKEN = "999aefc262ba490caaf833c66c98bc0d";   //WeatherAgent
+    private static String CLIENT_ACCESS_TOKEN = "03415a3af80343bb9322053bacb74d72";     //IdentifyNameAgent
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
